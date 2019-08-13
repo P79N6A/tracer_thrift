@@ -1,0 +1,9 @@
+package: github.com/8090Lambert/tracerThrift
+license: MIT
+owners:
+- name: 8090Lambert
+  email: juzs215@gmail.com
+  homepage: http://8090lambert.cn/
+import:
+- package: git.xiaojukeji.com/beatles/bego
+  version: ~0.10.0
